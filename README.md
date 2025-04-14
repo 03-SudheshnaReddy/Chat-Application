@@ -2,19 +2,19 @@
 
 A full-stack real-time chat application built using the **MERN stack (MongoDB, Express, React, Node.js)** along with **Socket.io** for real-time communication and **JWT** for secure authentication.
 
-## 🚀 Features
+##  Features
 
-- 🔐 User Registration & Login with JWT Authentication
-- 🧠 State management using Redux Toolkit
-- 💬 Real-time One-to-One Chat using Socket.io
-- 👤 User Search Functionality
-- 🌐 RESTful API for Chat, Message & User management
-- 🖼️ Profile picture support
-- 🪪 Protected Routes
-- 📁 MongoDB Atlas for cloud database
-- ⚡ Backend: Node.js, Express.js
-- 🖥️ Frontend: React + Tailwind CSS + DaisyUI
-- 📦 Project structured for scalability
+- 1) User Registration & Login with JWT Authentication
+- 2) State management using Redux Toolkit
+- 3) Real-time One-to-One Chat using Socket.io
+- 4) User Search Functionality
+- 5) RESTful API for Chat, Message & User management
+- 6) Profile picture support
+- 7) Protected Routes
+- 8) MongoDB Atlas for cloud database
+- 9) Backend: Node.js, Express.js
+- 10) Frontend: React + Tailwind CSS + DaisyUI
+- 11) Project structured for scalability
 
 ---
 
@@ -39,7 +39,7 @@ Chat-Application/
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the repository
 
@@ -99,15 +99,15 @@ Open the app in your browser at: `http://localhost:5173`
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
-- 🗨️ Group Chat support
-- 📱 Mobile responsive improvements
-- 🔔 Push Notifications for new messages
-- ✅ Message read receipts
-- 📷 Media (images, video, file) sharing
-- 📦 Docker support for deployment
-- 🧪 Unit & Integration Tests
+- 1) Group Chat support
+- 2) Mobile responsive improvements
+- 3) Push Notifications for new messages
+- 4) Message read receipts
+- 5) Media (images, video, file) sharing
+- 6) Docker support for deployment
+- 7) Unit & Integration Tests
 
 ---
 
