@@ -18,26 +18,6 @@ A full-stack real-time chat application built using the **MERN stack (MongoDB, E
 
 ---
 
-## 📁 Project Structure
-
-```
-Chat-Application/
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   └── server.js
-├── frontend/
-│   ├── components/
-│   ├── pages/
-│   ├── redux/
-│   ├── services/
-│   └── main.jsx
-```
-
----
 
 ##  Setup Instructions
 
